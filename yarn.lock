@@ -3341,9 +3341,9 @@ caniuse-db@^1.0.30000054, caniuse-db@^1.0.30000132:
   integrity sha512-7FWgXF1302ING0IRtWeWAEmHIwEFhUZTrKJ2gN1NeqalM5SmAe86718jXR6jih+5Tbp5NIzPhJovE6MXLeQ4Sw==
 
 caniuse-lite@^1.0.0, caniuse-lite@^1.0.30001317:
-  version "1.0.30001320"
-  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001320.tgz"
-  integrity sha512-MWPzG54AGdo3nWx7zHZTefseM5Y1ccM7hlQKHRqJkPozUaw3hNbBTMmLn16GG2FUzjR13Cr3NPfhIieX5PzXDA==
+  version "1.0.30001637"
+  resolved "https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001637.tgz"
+  integrity sha512-1x0qRI1mD1o9e+7mBI7XtzFAP4XszbHaVWsMiGbSPLYekKTJF7K+FNk6AsXH4sUpc+qrsI3pVgf1Jdl/uGkuSQ==
 
 case-sensitive-paths-webpack-plugin@^2.4.0:
   version "2.4.0"
